@@ -1,0 +1,6 @@
+[submodule "content/courses/external-rate"]
+	path = content/courses/external-rate
+	url = https://github.com/Timur232sdsd/external-rate
+[submodule "content/courses/content/courses/external-rate"]
+	path = content/courses/content/courses/external-rate
+	url = https://github.com/Timur232sdsd/external-rate
